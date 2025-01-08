@@ -20,11 +20,16 @@ public class Ejemplo01 {
         // String ciudad = "Loja";
         // String miCiudad = obtenerCiudadMayuscula(ciudad);
         // System.out.printf("%s\n", miCiudad);
-        obtenerMultiplicacion(7, 50);
+        /*obtenerMultiplicacion(7, 50);
         // 
         
         String miMensaje = obtenerMultiplicacionDos(7, 50);
-        System.out.printf("%s\n", miMensaje);
+        System.out.printf("%s\n", miMensaje);*/
+        
+        String ciudad = "Loja";
+        String mayuscula = obtenerCiudadMayuscula(ciudad);
+        
+        System.out.printf("%s\n",mayuscula);
     }
     
     
