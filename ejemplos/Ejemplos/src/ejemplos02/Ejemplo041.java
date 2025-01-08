@@ -10,7 +10,17 @@ package ejemplos02;
  * @author reroes
  */
 public class Ejemplo041 {
-
+    /*
+    en el metodo principal hacemos con un ciclo repetitivo que el arreglo3 tome 
+    valor en cada posicion, para calcular eso utilizamos el arreglo 1 y el 
+    arreglo2
+    para eso utilizamos un procedimiento en el que hacemos una respectiva multiplicacion 
+    luego tenemos obtenerReporte(arreglo1) que en general estamos 
+    llamando al procedimiento que por correspondencia mandamos el 
+    arreglo1 en este caso, en ese procedimiento hacemos que en una 
+    cadena se vayan almacenando los valores de cada poscion del arreglo y se 
+    impriman. Y asi con los dos otros arreglos. 
+    */
     public static void main(String[] args) {
         // 
         
